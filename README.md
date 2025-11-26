@@ -1,6 +1,5 @@
 # Привет, я deuteriumZzz! 👋
 
-
 ## 🛠 Мой стек:
 
 ### Языки
@@ -16,14 +15,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)  ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)  ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
 
 ### Библиотеки (Python)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-0098FF?style=for-the-badge&logo=internet-explorer&logoColor=white)![Pillow](https://img.shields.io/badge/Pillow-FF6B6B?style=for-the-badge&logo=python&logoColor=white) ![PyJWT](https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![CCXT](https://img.shields.io/badge/CCXT-FF6B35?style=for-the-badge&logo=bitcoin&logoColor=white)![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) 
-![Flake8](https://img.shields.io/badge/Flake8-000000?style=for-the-badge&logo=flake8&logoColor=white)
-
-Другие: Aiohttp, PyYAML, ReportLab, pyTelegramBotAPI, django-filter, Djoser, load_dotenv, chardet, webcolors, urllib3, pytz, pytils.
-
-
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-0098FF?style=for-the-badge&logo=internet-explorer&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-FF6B6B?style=for-the-badge&logo=python&logoColor=white) ![PyJWT](https://img.shields.io/badge/PyJWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![CCXT](https://img.shields.io/badge/CCXT-FF6B35?style=for-the-badge&logo=bitcoin&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) 
+![Flake8](https://img.shields.io/badge/Flake8-000000?style=for-the-badge&logo=flake8&logoColor=white)  
+![Aiohttp](https://img.shields.io/badge/Aiohttp-2C5F2D?style=for-the-badge&logo=python&logoColor=white) ![PyYAML](https://img.shields.io/badge/PyYAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white) ![ReportLab](https://img.shields.io/badge/ReportLab-0099CC?style=for-the-badge&logo=python&logoColor=white) ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-0088CC?style=for-the-badge&logo=telegram&logoColor=white) ![django-filter](https://img.shields.io/badge/django--filter-092E20?style=for-the-badge&logo=django&logoColor=white) ![Djoser](https://img.shields.io/badge/Djoser-FF1709?style=for-the-badge&logo=django&logoColor=white) ![load_dotenv](https://img.shields.io/badge/load_dotenv-3776AB?style=for-the-badge&logo=python&logoColor=white) ![chardet](https://img.shields.io/badge/chardet-3776AB?style=for-the-badge&logo=python&logoColor=white) ![webcolors](https://img.shields.io/badge/webcolors-FF6B6B?style=for-the-badge&logo=css3&logoColor=white) ![urllib3](https://img.shields.io/badge/urllib3-0098FF?style=for-the-badge&logo=internet-explorer&logoColor=white) ![pytz](https://img.shields.io/badge/pytz-3776AB?style=for-the-badge&logo=python&logoColor=white) ![pytils](https://img.shields.io/badge/pytils-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 📊 Статистика GitHub
 ![deuteriumZzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=radical&hide_border=true)
-
