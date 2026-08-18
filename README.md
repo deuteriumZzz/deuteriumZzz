@@ -112,26 +112,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deuteriumZzz&theme=tokyonight)](https://github.com/deuteriumZzz)
-
-</div>
-
----
-
-## 💻 Top Languages
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight)](https://github.com/deuteriumZzz)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
