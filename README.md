@@ -1,4 +1,3 @@
-
 # Привет, я Дмитрий 👋
 
 <div align="center">
@@ -106,9 +105,32 @@
 
 ### **AI & Developer Tools**
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-00A67E?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi%20AI-4B8FFF?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Kimi AI](https://img.shields.io/badge/Kimi%20AI-4B8FFF?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=deuteriumZzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
@@ -117,6 +139,15 @@
 👉 **Telegram:** [@Dmitry_kaizen](https://telegram.me/Dmitry_kaizen)
 
 📧 GitHub Issues | 📸 [Instagram](https://www.instagram.com/dmitry_kaizen/) | 🔗 [VK](https://vk.com/deuteriumzzz)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
+![Last Updated](https://img.shields.io/badge/Last%20Update-August%202026-blue?style=flat-square)
+
+</div>
 
 ---
 
