@@ -2,15 +2,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **Middle Backend Developer** with experience building high-load systems in Python. I work with trading platforms, Telegram bots, and RESTful APIs.
-
-**Location:** Bali, Indonesia  
-**Availability:** Full-time / Freelance / Remote
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
