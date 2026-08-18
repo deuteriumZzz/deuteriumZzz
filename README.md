@@ -112,29 +112,31 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 🔥 GitHub Streak
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deuteriumZzz&theme=tokyonight&border_radius=10)](https://github.com/deuteriumZzz)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deuteriumZzz&theme=tokyonight)](https://github.com/deuteriumZzz)
 
 </div>
 
 ---
 
+## 💻 Top Languages
+
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deuteriumZzz&theme=tokyo-night&bg_color=1a1b27&color=c9cacc&line=58a6ff&point=58a6ff&hide_border=true)](https://github.com/deuteriumZzz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight)](https://github.com/deuteriumZzz)
 
 </div>
 
 ---
 
-## 💻 Языковой профиль
+## 📈 Activity Graph
 
 <div align="center">
 
-[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)](https://github.com/deuteriumZzz)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deuteriumZzz&bg_color=1a1b27&color=c9cacc&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -151,7 +153,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
-![Last Updated](https://img.shields.io/badge/Last%20Update-August%202026-blue?style=flat-square)
 
 </div>
-
