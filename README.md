@@ -116,19 +116,20 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Активность на GitHub
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=deuteriumZzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Contributions](https://img.shields.io/badge/Active%20Contributor-deuteriumZzz-blue?style=for-the-badge)
+![Repositories](https://img.shields.io/github/repo-size/deuteriumZzz/Wakefinder?style=for-the-badge&label=Largest%20Project)
 
 </div>
 
@@ -145,14 +146,5 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
-![Last Updated](https://img.shields.io/badge/Last%20Update-August%202026-blue?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
 
 </div>
