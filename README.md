@@ -1,13 +1,13 @@
-# Hello, I'm deuteriumZzz 👋
+# Hello, I'm Dmitry 👋
 
-<div align="center">
+---
 
-**Middle Backend Developer** | **Python** | **Trading Systems**
+## 👨‍💻 About Me
 
-[![GitHub followers](https://img.shields.io/github/followers/deuteriumZzz?style=flat-square&logo=github&color=181717)](https://github.com/deuteriumZzz)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://telegram.me/Dmitry_kaizen)
+I'm a **Middle Backend Developer** with experience building high-load systems in Python. I work with trading platforms, Telegram bots, and RESTful APIs.
 
-</div>
+**Location:** Bali, Indonesia  
+**Availability:** Full-time / Freelance / Remote
 
 ---
 
@@ -103,21 +103,13 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deuteriumZzz&bg_color=1a1b27&color=c9cacc&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📞 Contact
 
 👉 **Telegram:** [@Dmitry_kaizen](https://telegram.me/Dmitry_kaizen)
 
-📧 GitHub Issues | 📸 [Instagram](https://www.instagram.com/dmitry_kaizen/) | 🔗 [VK](https://vk.com/deuteriumzzz)
+📸 **Instagram:** [@dmitry_kaizen](https://www.instagram.com/dmitry_kaizen/)
+
+🔗 **VK:** [deuteriumzzz](https://vk.com/deuteriumzzz)
 
 ---
 
