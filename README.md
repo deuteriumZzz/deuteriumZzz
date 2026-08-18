@@ -1,4 +1,4 @@
-# Привет, я Дмитрий 👋
+# Hello, I'm deuteriumZzz 👋
 
 <div align="center">
 
@@ -11,18 +11,9 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 🛠️ Tech Stack
 
-Я **Middle Backend разработчик** с опытом разработки высоконагруженных систем на Python. Работаю с торговыми платформами, Telegram ботами и RESTful API.
-
-**Место:** Бали, Индонезия  
-**Готовность:** Full-time / Фриланс / Удалённо
-
----
-
-## 🛠️ Технический стек
-
-### **Языки**
+### **Languages**
 
 ![Python](https://img.shields.io/badge/Python%203.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -40,7 +31,7 @@
 
 ---
 
-### **Асинхронность & Real-Time**
+### **Async & Real-Time**
 
 ![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C5F2D?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +40,7 @@
 
 ---
 
-### **Базы данных & Кэширование**
+### **Databases & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -67,7 +58,7 @@
 
 ---
 
-### **DevOps & Инфраструктура**
+### **DevOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -78,7 +69,7 @@
 
 ---
 
-### **Мониторинг & Логирование**
+### **Monitoring & Logging**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
@@ -86,7 +77,7 @@
 
 ---
 
-### **API & Финансовые интеграции**
+### **APIs & Financial Integrations**
 
 ![CCXT](https://img.shields.io/badge/CCXT-FF6B35?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Web3.py](https://img.shields.io/badge/Web3.py-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -95,7 +86,7 @@
 
 ---
 
-### **Тестирование & Качество**
+### **Testing & Quality**
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![mypy](https://img.shields.io/badge/mypy-0A9EDC?style=for-the-badge&logo=python&logoColor=white)
@@ -122,7 +113,7 @@
 
 ---
 
-## 📞 Контакты
+## 📞 Contact
 
 👉 **Telegram:** [@Dmitry_kaizen](https://telegram.me/Dmitry_kaizen)
 
