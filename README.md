@@ -116,19 +116,29 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=deuteriumZzz&theme=tokyonight&border_radius=10)](https://github.com/deuteriumZzz)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=deuteriumZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc&include_all_commits=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deuteriumZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Activity
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=deuteriumZzz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deuteriumZzz&theme=tokyo-night&bg_color=1a1b27&color=c9cacc&line=58a6ff&point=58a6ff&hide_border=true)](https://github.com/deuteriumZzz)
 
 </div>
 
@@ -146,13 +156,5 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
 ![Last Updated](https://img.shields.io/badge/Last%20Update-August%202026-blue?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
 
 </div>
