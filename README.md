@@ -2,6 +2,12 @@
 
 ---
 
+## 👨‍💻 About Me
+
+I'm a **Middle Backend Developer** with experience building high-load systems in Python. I work with trading platforms, Telegram bots, and RESTful APIs.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -91,6 +97,16 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Kimi AI](https://img.shields.io/badge/Kimi%20AI-4B8FFF?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deuteriumZzz&bg_color=1a1b27&color=c9cacc&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
