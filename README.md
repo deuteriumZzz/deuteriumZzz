@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Dmitry Vologdin
 
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Python Backend Developer** focused on designing and building backend applications, RESTful APIs, and data-driven systems.
