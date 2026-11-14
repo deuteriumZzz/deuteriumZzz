@@ -109,50 +109,6 @@ I enjoy solving complex engineering problems, exploring new technologies, and tu
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg"/>
-    <img src="./assets/overview.light.svg" alt="GitHub Overview Statistics" width="100%"/>
-  </picture>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg"/>
-    <img src="./assets/contributions.light.svg" alt="Contribution Streaks and Activity Calendar" width="100%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg"/>
-    <img src="./assets/lifetime.light.svg" alt="GitHub Contribution History" width="100%"/>
-  </picture>
-</p>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution Graph"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg"/>
-    <img src="./assets/languages.light.svg" alt="Most Used Programming Languages" width="100%"/>
-  </picture>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
