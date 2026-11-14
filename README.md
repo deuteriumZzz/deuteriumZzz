@@ -109,24 +109,18 @@ I enjoy solving complex engineering problems, exploring new technologies, and tu
 
 ---
 
-## 🤝 Let's Connect
+## 📞 Contact
 
-<p align="center">
-  <a href="https://github.com/deuteriumZzz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/dmitry-vologdin-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://telegram.me/Dmitry_kaizen">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+👉 **Telegram:** [@Dmitry_kaizen](https://telegram.me/Dmitry_kaizen)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deuteriumZzz&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-</p>
+📸 **Instagram:** [@dmitry_kaizen](https://www.instagram.com/dmitry_kaizen/)
 
-<p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
-</p>
+🔗 **VK:** [deuteriumzzz](https://vk.com/deuteriumzzz)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=deuteriumZzz&style=flat-square&color=blue)
+
+</div>
