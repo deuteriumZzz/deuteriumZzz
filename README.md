@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dmitry Vologdin
+# 👋 Hi, I'm Dmitry
 
 ## 👨‍💻 About Me
 
