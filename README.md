@@ -2,18 +2,6 @@
 
 ### Python Backend Developer | Backend Systems · APIs · AI Integrations
 
-<p align="left">
-  <a href="https://github.com/deuteriumZzz">
-    <img src="https://img.shields.io/badge/GitHub-deuteriumZzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/dmitry-vologdin-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://telegram.me/Dmitry_kaizen">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
