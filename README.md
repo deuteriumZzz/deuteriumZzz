@@ -136,6 +136,10 @@ I enjoy solving complex engineering problems, exploring new technologies, and tu
   </picture>
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="GitHub 3D Contribution Graph"/>
+</p>
+
 ---
 
 ## 💻 Most Used Languages
